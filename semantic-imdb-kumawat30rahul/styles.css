@@ -1,0 +1,36 @@
+body{
+    margin: 10px;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    background-color: #87CEEB;
+}
+
+ul{
+    list-style: none;
+}
+
+header{
+    color: #03507a;
+}
+#actor, #quote, summary,aside,footer,header,nav{
+    font-size: 25px;
+    margin: 5px 0 5px 0;
+    height: auto;
+    width: auto;
+    border-radius: 5px;
+}
+
+summary,#quote,footer{
+    background-color: #03507a;
+    color:#87CEEB ;
+}
+.avatar{
+    padding: 20px;
+    height: 350px;
+    width: auto;
+}
+
+.first-img > img , .second-img > img{
+    height: 250px;
+    width: auto;
+}
